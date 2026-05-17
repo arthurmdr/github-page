@@ -1,5 +1,5 @@
 # github-pages
-Criando site do portfólio
+Criação do site do portfólio
 
 Desenvolvimento do portfólio de Bootcamp I na Entrega Intermediária
 
